@@ -1,7 +1,7 @@
-header.h1 {
+h1.header {
 	color: pink;
 }
 
-header.p {
+p.header {
 	color: #a61183;
 }
