@@ -5,3 +5,8 @@ h1.header {
 p.header {
 	color: #a61183;
 }
+
+.fuji-image {
+	width: 50%;
+	height: auto;
+}
